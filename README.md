@@ -49,9 +49,7 @@ A simple Currency Converter website that allows users to convert between differe
 ## License
 This project is licensed under the MIT License.
 
-### Screenshots
+## Screenshot
 
-![Currency Converter Interface]()
-
-![Switch Button Feature]()
+![Currency Converter Interface](https://github.com/user-attachments/assets/a624ec22-ed2a-4881-a8a0-99b557ce282b)
 
