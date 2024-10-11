@@ -2,6 +2,9 @@
 
 A simple Currency Converter website that allows users to convert between different currencies, with real-time exchange rates and flag representations for each country.
 
+### Latest Website Link:
+latest - [--v2.0.0--](https://rudranshjaiswal01.github.io/currencyConverterWebsite/)
+
 ## Features
 
 ### Version 1.0.0
@@ -13,7 +16,7 @@ A simple Currency Converter website that allows users to convert between differe
 
 ### Version 2.0.0 (Updated)
 
-- Added a **Switch Button** to quickly swap the 'From' and 'To' currency dropdown values.
+- Added a **Swap Button** to quickly swap the 'From' and 'To' currency dropdown values.
 - Enhanced user experience with minor improvements like:
   - Optimized the layout.
   - Improved the performance of fetching currency rates.
